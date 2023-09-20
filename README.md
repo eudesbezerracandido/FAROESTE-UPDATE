@@ -6,4 +6,4 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/ljv0GaDP1BDt8HbxTMlU6ylnoaJ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Wyatt Earp é um pistoleiro de primeira classe do Velho Oeste que vive sob um lema: nunca, jamais, atire primeiro. Mas ele vai descobrir que mesmo um bom homem precisa quebrar as regras para sobreviver.</info>
-</item>
+</item> 
