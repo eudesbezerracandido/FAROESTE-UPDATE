@@ -16,3 +16,11 @@
 <info>Uma família pioneira luta contra uma gangue de bandidos que os está aterrorizando em sua fazenda recém-construída nas planícies do estado de Montana, EUA.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O RETORNO DA LENDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N3AXGWHT5IAVFVTC3MNI6JCRF66NFZO7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a5TMox6zYw686BbVS8D1UTPUYGI.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um fazendeiro acolhe um homem ferido com um saco de dinheiro. Quando uma gangue vem buscar o dinheiro, ele deve decidir em quem confiar. Defendendo um cerco, ele revela um talento de pistoleiro que põe em questão sua verdadeira identidade.</info>
+</item>
+
