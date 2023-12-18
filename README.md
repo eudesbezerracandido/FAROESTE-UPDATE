@@ -24,3 +24,11 @@
 <info>Um fazendeiro acolhe um homem ferido com um saco de dinheiro. Quando uma gangue vem buscar o dinheiro, ele deve decidir em quem confiar. Defendendo um cerco, ele revela um talento de pistoleiro que põe em questão sua verdadeira identidade.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DUAS PECADORAS E UMA MULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3db514f07c77afb049a6fc107d8b4fb38260ef03</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aRaO9OMNfsw03C04NHEgzBVWCiK.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Expulsas de uma pequena cidade do oeste por comportamento pecaminoso, Alice (Chantelle Albers) e Nora (Hannah James) partem para Virginia City para perseguir o sonho de abrir um restaurante. Na pradaria, eles se deparam com um caçador de recompensas ferido chamado Elden (Cam Gigandet, Crepúsculo). Na esperança de compartilhar a recompensa, eles cuidam de Elden e o ajudam a perseguir sua presa, Grimes (Cord Newman). Mas Nora e Alice se apaixonam por Elden, com isso não percebem que Grimes agora é quem está atrás deles, e os caçadores se tornam a caça.</info>
+</item>
+
